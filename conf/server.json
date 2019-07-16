@@ -1,0 +1,9 @@
+{
+  "Port": "5000",
+
+
+  "MongoDBAddr": "192.168.23.132:27017",
+  "MongoDBUser": "fido",
+  "MongoDBPwd": "123456",
+  "MongoDBAuth": "admin"
+}
